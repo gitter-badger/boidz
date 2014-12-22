@@ -1,5 +1,7 @@
 # Haxe Boids
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mlms13/boidz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a Haxe implementation of the Boids flocking algorithm.
 
 [Canvas Demo](https://rawgit.com/fponticelli/boidz/master/bin/index.html)
